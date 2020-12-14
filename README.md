@@ -3,7 +3,7 @@ Derivation of roots of Aindra Vyākaraṇa as per the directions of Shri Vinay J
 
 #### Semantic Classification Files Links:-
 
-[001-Gatau.txt](https://github.com/vijnasu/Aindra-Vyakarana/blob/main/semantic_classification/001-Gatau.txt)
+[001-Gatau.txt](https://github.com/vijnasu/Aindra-Vyakarana/blob/main/semantic_classification/001-Gatau.txt)  
 [002-Lakshane.txt](https://github.com/vijnasu/Aindra-Vyakarana/blob/main/semantic_classification/002-Lakshane.txt)
 [003-Vyaaptau.txt](https://github.com/vijnasu/Aindra-Vyakarana/blob/main/semantic_classification/003-Vyaaptau.txt)
 [004-Bhaasha.txt](https://github.com/vijnasu/Aindra-Vyakarana/blob/main/semantic_classification/004-Bhaasha.txt)
