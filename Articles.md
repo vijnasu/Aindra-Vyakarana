@@ -196,7 +196,7 @@ https://drive.google.com/file/d/1mODREgHbc08IVTtjpuY7YNwlP9oFE43W/view?usp=shari
 
 संस्कृत धातुओं का अन्त हलन्त होता है किन्तु “कृदन्तरूपमाला” के प्रकाशक ने भूलवश हलन्त के स्थान पर अकारान्त कर दिया है । मैंने अपने सॉफ्टवेयर द्वारा केवल सूची ली，वर्तनी में कोई छेड़छाड़ नहीं की । इस ग्रन्थ का PDF फाइल गोविन्द झा से प्राप्त कर सकते हैं ।  
   
-[krm_sa.txt](https://github.com/vijnasu/Aindra-Vyakarana/blob/main/files/krm_sa.txt?raw=true)  
+File having collection of 2039 Sanskrit Roots - [krm_sa.txt](https://github.com/vijnasu/Aindra-Vyakarana/blob/main/files/krm_sa.txt?raw=true)  
   
 ### ऐन्द्र व्याकरण :— भाग ७ (धातुसूची खण्ड−३)  
   
