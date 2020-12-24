@@ -5,7 +5,7 @@ Derivation of roots of Aindra Vyākaraṇa as per the directions of Shri Vinay J
 [108 Aindra-Dhaatus](https://github.com/vijnasu/Aindra-Vyakarana/blob/Level-2/Semantic%20Classification%203/Dhaatu%20Sankalana%202)
 
 #### 302 Roots derived
-[302 Aindra-Dhaatus](https://github.com/vijnasu/Aindra-Vyakarana/blob/Level-2/Semantic%20Classification%202/Dhaatu%20Sankalana%201)
+[302 Dhaatus](https://github.com/vijnasu/Aindra-Vyakarana/blob/Level-2/Semantic%20Classification%202/Dhaatu%20Sankalana%201)
 
 #### Semantic Classification Files Links:-
 
