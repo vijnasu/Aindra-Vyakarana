@@ -1,8 +1,11 @@
 # Aindra-Vyakarana
 Derivation of roots of Aindra Vyākaraṇa as per the directions of Shri Vinay Jha Guruji.
 
-#### 54 Roots derived
-[Aindra-Dhaatus](https://github.com/vijnasu/Aindra-Vyakarana/blob/Level-2/Semantic%20Classification%202/Dhaatu%20Sankalana%201)
+#### 108 Roots derived
+[108 Aindra-Dhaatus](https://github.com/vijnasu/Aindra-Vyakarana/blob/Level-2/Semantic%20Classification%203/Dhaatu%20Sankalana%202)
+
+#### 302 Roots derived
+[302 Aindra-Dhaatus](https://github.com/vijnasu/Aindra-Vyakarana/blob/Level-2/Semantic%20Classification%202/Dhaatu%20Sankalana%201)
 
 #### Semantic Classification Files Links:-
 
